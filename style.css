@@ -309,9 +309,15 @@ footer {
     display: flex;
     justify-content: space--around;
     margin: 20px 0;
+  
+
 }
 .footer__social--link,
 .footer__copyright{
-    color: white;
+   color: white;
+   padding: 24px;
+   margin-left: 16px;
+  
+   
 
 }
